@@ -58,8 +58,7 @@ npm install
 npm run develop
 ```
 
-- Strapi will open at **<http://localhost:1337/admin>**
-email: <muhammadkamranyar@gmail.com> & password: test@123
+- Strapi will open at **<http://localhost:1338/admin>**
 
 ---
 
@@ -78,7 +77,7 @@ npm install
 npm run dev
 ```
 
-- Frontend will open at **<http://localhost:3000>**
+- Frontend will open at **<http://localhost:3001>**
 
 ---
 
